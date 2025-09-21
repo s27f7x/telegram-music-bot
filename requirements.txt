@@ -1,0 +1,11 @@
+aiogram==3.3.0
+pyrogram==2.0.106
+TgCrypto==1.2.5
+py-tgcalls==0.9.7
+yt-dlp==2023.12.30
+youtube-search==2.1.2
+python-dotenv==1.0.0
+aiofiles==23.2.1
+aiohttp==3.9.1
+requests==2.31.0
+ffmpeg-python==0.2.0
